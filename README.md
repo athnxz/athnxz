@@ -1,4 +1,4 @@
-### Olá, Me chamo Athos e sou Analista de Dados! Seja bem-vindo/a ao meu mundo! Sente-se e fique a vontade para navegar entre os repositórios e projetos. 
+### Olá, me chamo Athos e sou Analista de Dados! Seja bem-vindo/a ao meu mundo! Sente-se e fique a vontade para navegar entre os repositórios e projetos. 
 
 - 🌱 Atualmente estou estudando AWS e Big Data!
 - 📫 Contate-me: callmeathosgabriel@gmail.com
@@ -18,6 +18,7 @@
   <img align="center" alt="Athos-MSSQL" height="35" width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a">
   <img align="center" alt="Athos-AWS" height="35" width="40" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png">
   <img align="center" alt="Athos-AS" height="35" width="40" src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png">
+  <img align="right" alt="Athos-gif" height="180" width="230" src= "https://github.com/athnxz/athnxz/assets/149092561/a26c33dd-cf82-4be5-8960-e7145c20d171"
 </div>
   
   ##
@@ -27,3 +28,4 @@
   <a href= "https://www.linkedin.com/in/athos-gabriel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
