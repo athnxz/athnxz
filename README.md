@@ -1,6 +1,6 @@
 ### Olá, me chamo Athos e sou Analista de Dados! Seja bem-vindo/a ao meu mundo! Sente-se e fique a vontade para navegar entre os repositórios e projetos. 
 
-- 🌱 Atualmente estou estudando AWS e Big Data!
+- 🌱 Atualmente estou estudando Engenharia de Software!
 - 📫 Contate-me: callmeathosgabriel@gmail.com
 - ⛱️ Pronomes: ele/dele
 
